@@ -1,0 +1,22 @@
+{
+  "node": {
+    "cc9abf3bf6b454014df4cf84b690cc4caab07206": {
+      "workers": {
+        "app/admin/approvals/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CProject%5C%5CTIOS%5C%5Capp%5C%5Cadmin%5C%5Capprovals%5C%5Cactions.ts%22%2C%5B%22rejectUser%22%2C%22approveUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/approvals/page": "rsc"
+      }
+    },
+    "f5001f132b28d5c9b354ad5da5dd7b6532f3138b": {
+      "workers": {
+        "app/admin/approvals/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CProject%5C%5CTIOS%5C%5Capp%5C%5Cadmin%5C%5Capprovals%5C%5Cactions.ts%22%2C%5B%22rejectUser%22%2C%22approveUser%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/approvals/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "m2IuFrz28NDWQ+RyoSPu8If1PVk0B3nm5HBDdMjqBQA="
+}
